@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+dash
+dash-core-components
+dash-html-components
+dash-bootstrap-components
+tensorflow
+Flask
